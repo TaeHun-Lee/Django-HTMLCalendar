@@ -1,1 +1,1 @@
-web: gunicorn calendar_test_folder.wsgi --log-file -
+web: gunicorn calendar_test.wsgi --log-file -
